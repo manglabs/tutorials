@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D01D7FB5-8306-4B86-B151-292C4C3A56C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleDelegateExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1726E09A-A692-44DB-B4A0-FCD53F488C4D</key>
+		<string>https://github.com/manglabs/tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleDelegateExample/SimpleDelegateExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1726E09A-A692-44DB-B4A0-FCD53F488C4D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manglabs/tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1726E09A-A692-44DB-B4A0-FCD53F488C4D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1726E09A-A692-44DB-B4A0-FCD53F488C4D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tutorials</string>
+		</dict>
+	</array>
+</dict>
+</plist>
