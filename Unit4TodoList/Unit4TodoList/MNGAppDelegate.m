@@ -17,7 +17,8 @@
     // Override point for customization after application launch.
     
     MNGTodoListViewController *viewController = [[MNGTodoListViewController alloc] initWithStyle:UITableViewStylePlain];
-    self.window.rootViewController = viewController;
+    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:viewController];
+    self.window.rootViewController = navController;
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
