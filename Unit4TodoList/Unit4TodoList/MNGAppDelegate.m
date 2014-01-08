@@ -18,7 +18,6 @@
     
     MNGTodoListViewController *viewController = [[MNGTodoListViewController alloc] initWithStyle:UITableViewStylePlain];
     UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:viewController];
-    viewController.navigationItem.title = @"ToDo List";
     self.window.rootViewController = navController;
     
     self.window.backgroundColor = [UIColor whiteColor];
