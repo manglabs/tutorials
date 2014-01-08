@@ -14,11 +14,17 @@
 
 @implementation MNGTodoListViewController
 
+- (void)didTapAddButton
+{
+    NSLog(@"Tapped!");
+}
+
 - (id)initWithStyle:(UITableViewStyle)style
 {
     self = [super initWithStyle:style];
     if (self) {
         self.navigationItem.title = @"To-Do List";
+        self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(didTapAddButton)];
     }
     return self;
 }
